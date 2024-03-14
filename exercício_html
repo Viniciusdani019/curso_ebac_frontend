@@ -9,13 +9,13 @@
     <h1>Formulario EBAC</h1>
     <form>
         <label for="Name">Nome</label>
-        <input id="name" type="Name">
+        <input id="Name" type="Name">
         <BR />
         <label for ="email">E-mail</label>
-        <input id="email" type="Email">
+        <input id="email" type="email">
         <br />
-        <label for="Tel">Senha</label>
-        <input id="Senha" type="Telefone">
+        <label for="Senha">Senha</label>
+        <input id="Senha" type="password">
         <br />
         <button type="submit">
             Cadastrar
