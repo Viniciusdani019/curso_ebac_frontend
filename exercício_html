@@ -1,1 +1,25 @@
-http://127.0.0.1:5500/FORMULARIOEBAC.HTML 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario EBAC</title>
+</head>
+<body>
+    <h1>Formulario EBAC</h1>
+    <form>
+        <label for="Name">Nome</label>
+        <input id="name" type="Name">
+        <BR />
+        <label for ="email">E-mail</label>
+        <input id="email" type="Email">
+        <br />
+        <label for="Tel">Senha</label>
+        <input id="Senha" type="Telefone">
+        <br />
+        <button type="submit">
+            Cadastrar
+        </button>
+    
+</body>
+</html>
